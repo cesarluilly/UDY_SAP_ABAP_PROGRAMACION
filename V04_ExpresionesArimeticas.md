@@ -52,3 +52,5 @@ WRITE: / 'A = ', numero_a.
 * Orden de operaciones matematicas.
 numero_a = 2 * ( numero_b + numero_c ).
 ```
+
+![1751748248320](image/V04_ExpresionesArimeticas/1751748248320.png)

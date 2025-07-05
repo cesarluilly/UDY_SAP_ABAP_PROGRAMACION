@@ -22,3 +22,5 @@ write fecha DD/MM/YYYY.
 write iva.
 write enterprise.
 ```
+
+![1751748124449](image/V01_VARIABLES/1751748124449.png)

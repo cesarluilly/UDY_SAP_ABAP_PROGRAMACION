@@ -1,4 +1,3 @@
-
 ```abap
 *&---------------------------------------------------------------------*
 *& Report YLU_BIF_COND
@@ -17,3 +16,7 @@ ELSE.
   WRITE: / 'Valor tecleado fue: ', pa_cod.
 ENDIF.
 ```
+
+![1751748320621](image/V06_BifCondicional/1751748320621.png)
+
+![1751748330913](image/V06_BifCondicional/1751748330913.png)

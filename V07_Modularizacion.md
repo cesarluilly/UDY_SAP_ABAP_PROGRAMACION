@@ -70,3 +70,5 @@ Tambien existe otras secciones para modulariza y son los siguientes con el orden
   * **START-OF-SELECTION**.
 
 Esta modularizacion sirve con eventos y de esta forma se le permite a SAP trabajar de forma optima.
+
+![1751748388230](image/V07_Modularizacion/1751748388230.png)

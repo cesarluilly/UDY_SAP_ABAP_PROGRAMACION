@@ -71,3 +71,7 @@ FORM insertar_empleado .
   ENDIF.
 ENDFORM.
 ```
+
+En este caso no se agrego ya que ya existe el elemento en la DB
+
+![1751748441792](image/V09_EscrituraEnTablas/1751748441792.png)

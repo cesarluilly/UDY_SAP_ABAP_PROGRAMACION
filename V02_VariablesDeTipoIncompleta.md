@@ -1,4 +1,3 @@
-
 ```abap
 *&---------------------------------------------------------------------*
 *& Report YLU_VARIABLES_INCOMPLETO
@@ -23,3 +22,5 @@ WRITE / numero.
 * Con dos puntos y comas podemos imprimir varias variables en un write
 WRITE: cadena, 'Alumno ABAP'.
 ```
+
+![1751748168861](image/V02_VariablesDeTipoIncompleta/1751748168861.png)

@@ -63,3 +63,5 @@ START-OF-SELECTION.
 write gv_nombre.
 * go_cls_alumno->set_nombre = 'Cesar Garcia'.
 ```
+
+![1751748512807](image/V11_POO_CLASES/1751748512807.png)

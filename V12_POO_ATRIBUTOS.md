@@ -39,3 +39,6 @@ START-OF-SELECTION.
   WRITE : / go_factura_2->static_fecha_pago.
   WRITE : / cls_factura=>static_fecha_pago.
 ```
+
+
+![1751748551159](image/V12_POO_ATRIBUTOS/1751748551159.png)

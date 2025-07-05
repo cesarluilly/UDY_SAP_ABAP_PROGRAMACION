@@ -103,3 +103,5 @@ WRITE: / 'B1->', b1.
 WRITE: / 'B2->', b2.
 WRITE: / 'B3->', b3.
 ```
+
+![1751748287879](image/V05_CadenaDeCaracteres/1751748287879.png)

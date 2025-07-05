@@ -67,3 +67,5 @@ FORM obtener_empleado .
   ENDIF.
 ENDFORM.
 ```
+
+![1751748480362](image/V10_LecturaEnTablas/1751748480362.png)

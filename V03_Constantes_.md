@@ -1,4 +1,3 @@
-
 ```abap
 *&---------------------------------------------------------------------*
 *& Report YLU_CONSTANTES
@@ -24,3 +23,5 @@ CONSTANTS: hora type t VALUE '143050',
 write: / hora ENVIRONMENT TIME FORMAT,
        / nombre.
 ```
+
+![1751748206882](image/V03_Constantes_/1751748206882.png)
